@@ -79,7 +79,7 @@ HTML-AP CSp
   <div class="card">
     <h2>Video: How the Internet Works</h2>
     <iframe src="https://www.youtube.com/embed/3QhU9jd03a0" title="How the Internet Works"></iframe>
-  </div>
+  </div><p><h2>Internet of Things</h2>: The connection between different devices to create a web of devices, like in households, can create a web through a router and other electronic devices .</p>
 
   <footer>
     <p>Made by Lincoln Ryniec</p>
